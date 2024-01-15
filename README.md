@@ -69,16 +69,18 @@ City: Częstochowa
 
 ## Tech stack
 
-- Github
-- Xammp
-- Hubspot
 - Jira
 - Confluence
+- Postman
+- GSuite
+- SoapUI
+- Github
+- Hubspot
 - Wordpress
 - XCode
 - Visual Code Studio
 - Slack
 - Webex
-- GSuite
+
 
 
